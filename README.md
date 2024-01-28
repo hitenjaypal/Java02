@@ -3,12 +3,12 @@
 Java Basics Question from Striver's DSA Sheet
 <br>
 
-Easy to Advanced Patterns
+1.Easy to Advanced Patterns
 <br>
-Basic Maths 
+2.Basic Maths 
 <br>
-Basic Recursion 
+3.Basic Recursion 
 <br> 
-Basic Hashing
+4.Basic Hashing
 <br>
 
